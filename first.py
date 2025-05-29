@@ -1,1 +1,1 @@
-print "This is first line"
+print "Hi everyone"
